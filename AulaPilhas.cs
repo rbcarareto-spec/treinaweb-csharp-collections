@@ -22,7 +22,7 @@ public class AulaPilhas
         pilha.Pop();
 
         pilha.Pop();
-        pilha.Pop();
+        //pilha.Pop();
 
         imprimir(pilha);
     }
